@@ -1,0 +1,13 @@
+name = "Artisanal Default"
+filename = "ArtisanalDefault_v0.8.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2LvOiVg1/versions/UQgcWsT5/ArtisanalDefault_v0.8.1.zip"
+hash-format = "sha1"
+hash = "c8cef690a577c55538391f6640d940f436ef1100"
+
+[update]
+[update.modrinth]
+mod-id = "2LvOiVg1"
+version = "UQgcWsT5"

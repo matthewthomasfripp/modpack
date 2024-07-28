@@ -1,0 +1,13 @@
+name = "Flower Clusters"
+filename = "Flower Clusters 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rKubepOk/versions/BygB8wZn/Flower%20Clusters%201.0.zip"
+hash-format = "sha1"
+hash = "bd5c24b19cba4287812fa70ea14863bddce5627d"
+
+[update]
+[update.modrinth]
+mod-id = "rKubepOk"
+version = "BygB8wZn"

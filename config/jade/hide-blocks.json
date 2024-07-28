@@ -1,0 +1,12 @@
+{
+  "__comment": "This is an ignore list for the target of Jade. You can add registry ids to the \"values\" list.",
+  "values": [
+    "barrier",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "snowrealmagic:snowy_plant",
+    "snowrealmagic:snowy_double_plant_lower"
+  ]
+}

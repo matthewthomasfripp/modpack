@@ -1,0 +1,12 @@
+{
+	"version": 100,
+	"tooltipStyle": {
+		"sprite": "jade_invisible:invisible",
+		"withIconSprite": "jade_invisible:invisible"
+	},
+	"changeOpacity": 1,
+	"changeRoundCorner": false,
+	"autoEnable": true,
+	"lightColorScheme": true,
+	"iconSlotSprite": "jade_invisible:invisible"
+}

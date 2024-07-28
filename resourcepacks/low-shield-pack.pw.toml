@@ -1,0 +1,13 @@
+name = "Low Shield"
+filename = "Low Shield.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZrLuVQo/versions/EzyLdVZZ/Low%20Shield.zip"
+hash-format = "sha1"
+hash = "5ba5c448e98988a39bb8ed858b20087d809c9fad"
+
+[update]
+[update.modrinth]
+mod-id = "CZrLuVQo"
+version = "EzyLdVZZ"

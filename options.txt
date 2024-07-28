@@ -1,0 +1,24 @@
+enableVsync:false
+fullscreenMode:2
+guiScale:3
+fov:0.5
+maxFps:170
+renderDistance:12
+simulationDistance:5
+graphicsMode:0
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","continuity:glass_pane_culling_fix","continuity:default","betterbeds:fancyconnectedbeds","black_icons","file/ArtisanalDefault_v0.8.1.zip","file/Artisanal Nether Bricks v1.0.0.zip","file/§9BetterBoats.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/RavenPhantoms_v1.0.1.zip","file/Low Shield.zip","file/Low Fire.zip","file/Fine Armoury v1.3 f8-34.zip","file/SimpleRusticGlassv1.0.1.zip","file/Simple Lower Grass Sides v1.0.0.zip","file/Simple Grass Flowers v1.8.1.zip","file/moss-carpet.zip","file/Fancy Crops v1.0 f5-34.zip","file/Flower Clusters 1.0.zip","file/§fBetter §2§lLeaves §71.21.zip","file/waystones_1.21.zip","file/Blockier Goat Horn v1.1 f9-34.zip","file/FreshAnimations_v1.9.2.zip","file/fa-ext.zip","file/fa-th.zip","file/Assorted Allays x FA V.5.1.1.zip","file/FA-Villager_Variety-Biome_Dependent-[V1b].zip","file/gui-misc.zip","file/gui-hotbar.zip","file/gui-menu.zip","file/Serified Font v1.1 f1-34.zip"]
+darkMojangStudiosBackground:true
+onboardAccessibility:false
+joinedFirstServer:true
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+key_key.mute_microphone:157
+key_key.weaponmaster_ydm.opengui:22
+key_ping-wheel.key.name-labels:29
+key_key.saveToolbarActivator:0
+key_iris.keybind.reload:0
+key_iris.keybind.toggleShaders:0
+key_iris.keybind.shaderPackSelection:0
+key_key.fabricskyboxes.toggle:0
+key_key.optigui.inspect:0

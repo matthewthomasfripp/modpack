@@ -1,0 +1,149 @@
+Oi!
+This text sheet is for anyone looking to rename a mob into a specific skin variant! 
+The first name will be the orginal texture of the mob followed by the names of the variants! 
+If any of the names has a "|" in it, the variant can be named in more then one way.
+
+Allay
+
+(Allay|Blue Allay)
+(Yellow Allay)
+(Red Allay|Nether Allay)
+(Orange Allay)
+(Green Allay)
+(Purple Allay)
+(White Allay)
+(Muddy Allay)
+(Amethyst Allay)
+(Sculk Allay)
+(Lush Allay)
+(Dripstone Allay)
+(Vex Allay)
+(Soul Wizard)
+(Guardian Vex)
+(Yearnshroom|Mushroom)
+(Brown Yearnshroom|Brown Mushroom)
+(Crimson Yearnshroom|Crimson Fungus|Crimson Yearngus)
+(Warped Yearnshroom|Warped Fungus|Warped Yearngus)
+(Pink Pikmin|Wing Pikmin)
+(Queen Sectonia)
+(Ribbon)
+(Elfilin)
+(V1)
+(Grogu|Baby Yoda|The Child)
+(Toad Golem|ShinyDragon)
+(Toxin Allay|creepermax)
+(Gills|GillsBills)
+
+
+Flowers and Powers Update
+
+(Red Tulip Allay)
+(Orange Tulip Allay)
+(Pink Tulip Allay)
+(White Tulip Allay)
+(Poppy Allay)
+(Dandelion Allay)
+(Blue Orchid Allay)
+(Cornflower Allay)
+(Allium Allay)
+(Lily of the Valley Allay)
+(Oxeye Daisy Allay)
+(Azure Bluet Allay)
+(Sunflower Allay)
+(Wither Rose Allay)
+(Torchflower Allay)
+(Cactus Allay)
+(Bamboo Allay)
+(Chorus Flower Allay)
+(Dummy Allay)
+(Scarecrow Allay)
+(Pitcher Plant Allay)
+(Rose Bush Allay|Rose Allay)
+(Lilac Allay)
+(Peony Allay)
+(Wheat Allay)
+(Carrot Allay)
+(Potato Allay)
+(Cocoa Beans Allay)
+(Beetroot Allay)
+(Magolor)
+(Ewan|ewanhowell)
+(MickeyJoeAlpha|MJA)
+
+
+Knights and Frights Update
+
+(Meta Knight)
+(Galacta Knight)
+(Dark Meta Knight)
+(Morpho Knight)
+(Dark Matter|Dark Matter Blade)
+(Hollow Knight|The Knight)
+(Sibling|Vessel)
+(Broken Vessel)
+(Shovel Knight)
+(Black Knight)
+(Glow Pikmin)
+(Link)
+(Ganon|Ganondorf)
+(Necromancer)
+(Dark Knight|Batman)
+(Butter|Butterallay)
+(Mortarion)
+
+
+Wisps and Crisps Update
+
+(Dark Allay)
+(Thistle Allay)
+(Neon Allay)
+(Red Wisp)
+(Orange Wisp)
+(Yellow Wisp)
+(Green Wisp)
+(Blue Wisp)
+(Purple Wisp)
+(White Wisp)
+(Muddy Wisp)
+(Dark Wisp)
+(Thistle Wisp)
+(Neon Wisp)
+(Wisp)
+(FA_pew)
+(Scribblez)
+
+
+Aquatic and Chaotic Update
+
+(Seagrass Allay)
+(Sea Pickle Allay)
+(Tube Coral Allay)
+(Brain Coral Allay)
+(Bubble Coral Allay)
+(Fire Coral Allay)
+(Horn Coral Allay)
+(Dead Coral Allay)
+(Kelp Allay)
+(Dried Kelp Allay)
+(Sponge Allay)
+(Heart of Allay)
+(Drowned Allay)
+(Sephiroth)
+(Shiver)
+(Frye)
+(Big Man)
+(V2)
+(Isfet'llay)
+
+
+Side Order and Fresh Reorder Update
+
+(Gray Allay|Grey Allay)
+(Parallel Allay)
+(Vanilla Wisp)
+(Sponge Wisp)
+(Gray Wisp)
+(FreshLX)
+
+1.21 Patch
+(Adora)

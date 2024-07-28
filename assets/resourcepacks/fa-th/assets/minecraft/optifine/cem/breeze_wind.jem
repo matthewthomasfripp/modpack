@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -20, 0],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 2, 9],
+					"rotate": [-17.5, 0, 0]
+				}
+			]
+		},
+		{
+			"part": "rod1",
+			"id": "rod1",
+			"invertAxis": "xy",
+			"translate": [0, -19, 2]
+		},
+		{
+			"part": "rod2",
+			"id": "rod2",
+			"invertAxis": "xy",
+			"translate": [2, -19, -2]
+		},
+		{
+			"part": "rod3",
+			"id": "rod3",
+			"invertAxis": "xy",
+			"translate": [-2, -19, -2]
+		}
+	]
+}

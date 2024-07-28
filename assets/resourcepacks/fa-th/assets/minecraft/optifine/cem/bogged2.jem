@@ -1,0 +1,121 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 32],
+	"texture": "textures/entity/skeleton/brush.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [6, 0, 3],
+					"rotate": [-5, 0, 12.5],
+					"boxes": [
+						{"coordinates": [-5, 21, -5, 8, 8, 8], "textureOffset": [0, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "headwear",
+			"id": "headwear",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"translate": [6, 0, 3],
+					"rotate": [-5, 0, 12.5],
+					"boxes": [
+						{"coordinates": [-5, 21, -5, 8, 8, 8], "textureOffset": [32, 0], "sizeAdd": 0.5}
+					]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-4, 12, -2, 8, 9, 4], "textureOffset": [16, 16]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"boxes": [
+				{"coordinates": [-6, 9, -1, 2, 12, 2], "textureOffset": [40, 16]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"boxes": [
+				{"coordinates": [4, 12, -1, 2, 12, 2], "textureOffset": [40, 16]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, -0.1],
+			"boxes": [
+				{"coordinates": [-3, 0, -1, 2, 12, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, -0.1],
+			"boxes": [
+				{"coordinates": [1, 0, -1, 2, 12, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "mushroom1",
+			"id": "mushroom1",
+			"invertAxis": "xy",
+			"translate": [3, -32, -3],
+			"rotate": [0, -45, 0],
+			"boxes": [
+				{"coordinates": [-6, 27, 3, 6, 4, 0], "textureOffset": [50, 16]},
+				{"coordinates": [-3, 27, 0, 0, 4, 6], "textureOffset": [50, 10]}
+			]
+		},
+		{
+			"part": "mushroom2",
+			"id": "mushroom2",
+			"invertAxis": "xy",
+			"translate": [-3, -32, 3],
+			"rotate": [0, -45, 0],
+			"boxes": [
+				{"coordinates": [-2, 28, -3, 6, 4, 0], "textureOffset": [50, 22]},
+				{"coordinates": [1, 28, -6, 0, 4, 6], "textureOffset": [50, 16]}
+			]
+		},
+		{
+			"part": "mushroom3",
+			"id": "mushroom3",
+			"invertAxis": "xy",
+			"translate": [-2, -25, -5],
+			"rotate": [90, 0, 135],
+			"boxes": [
+				{"coordinates": [-1, 23.5, 5, 6, 4, 0], "textureOffset": [50, 28]},
+				{"coordinates": [2, 23.5, 2, 0, 4, 6], "textureOffset": [50, 22]}
+			]
+		}
+	]
+}

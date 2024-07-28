@@ -1,0 +1,8 @@
+name = "Fresh Animations - Extensions"
+filename = "fa-ext.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/fa-ext.zip"
+hash-format = "sha1"
+hash = "76c77b066b514df0dcfe26afeefc3d88ae9f767c"

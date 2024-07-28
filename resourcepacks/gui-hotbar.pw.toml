@@ -1,0 +1,8 @@
+name = "GUI - Hotbar"
+filename = "gui-hotbar.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/gui-hotbar.zip"
+hash-format = "sha1"
+hash = "be1abb1f1e7a3ae946e022719315f9bbe6454f5e"

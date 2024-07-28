@@ -1,0 +1,13 @@
+name = "Better Leaves"
+filename = "§fBetter §2§lLeaves §71.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AXoO5ip/versions/wtwHvqeh/%C2%A7fBetter%20%C2%A72%C2%A7lLeaves%20%C2%A771.21.zip"
+hash-format = "sha1"
+hash = "74a016d5156c10a3c37bc857f5ba3672e15d64a0"
+
+[update]
+[update.modrinth]
+mod-id = "6AXoO5ip"
+version = "wtwHvqeh"

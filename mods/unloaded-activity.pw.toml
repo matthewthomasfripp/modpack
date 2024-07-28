@@ -1,0 +1,13 @@
+name = "Unloaded Activity"
+filename = "unloadedactivity-v0.6.2+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oo4rJCDP/versions/W04dfYmq/unloadedactivity-v0.6.2%2B1.21.jar"
+hash-format = "sha1"
+hash = "01b3936dd2b635f2b2dabf75fdaa7ec210e1c515"
+
+[update]
+[update.modrinth]
+mod-id = "Oo4rJCDP"
+version = "W04dfYmq"

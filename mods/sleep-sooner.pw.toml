@@ -1,0 +1,13 @@
+name = "Sleep Sooner"
+filename = "sleepsooner-1.21.0-4.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHjSAFFN/versions/K23dLfNJ/sleepsooner-1.21.0-4.6.jar"
+hash-format = "sha1"
+hash = "5200322b5d0ed2619c07768f8c57aa4dc2f21e47"
+
+[update]
+[update.modrinth]
+mod-id = "NHjSAFFN"
+version = "K23dLfNJ"

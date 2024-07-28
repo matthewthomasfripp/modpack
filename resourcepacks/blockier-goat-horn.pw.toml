@@ -1,0 +1,13 @@
+name = "Blockier Goat Horn"
+filename = "Blockier Goat Horn v1.1 f9-34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cTm36Ih9/versions/6Rl704zl/Blockier%20Goat%20Horn%20v1.1%20f9-34.zip"
+hash-format = "sha1"
+hash = "9663c87502963d06917a916564c176a0e71e0a78"
+
+[update]
+[update.modrinth]
+mod-id = "cTm36Ih9"
+version = "6Rl704zl"

@@ -1,0 +1,8 @@
+name = "GUI - Menu"
+filename = "gui-menu.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/gui-menu.zip"
+hash-format = "sha1"
+hash = "9f3ae0f990b7e3297deaa05e03f955fab3bc196a"

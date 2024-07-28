@@ -1,0 +1,8 @@
+name = "Fresh Animations - Allays"
+filename = "fa-allays.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/fa-allays.zip"
+hash-format = "sha1"
+hash = "a9cef5d8e621742a5328bddd7274d66382383b92"

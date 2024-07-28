@@ -1,0 +1,8 @@
+name = "Fresh Animations - Torturable Healthbars"
+filename = "fa-th.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/fa-th.zip"
+hash-format = "sha1"
+hash = "9baf2d00ba0beed56d0b670e0449dade4ad46103"

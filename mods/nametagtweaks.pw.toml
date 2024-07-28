@@ -1,0 +1,13 @@
+name = "Nametag Tweaks"
+filename = "NametagTweaks 1.21-fabric-1.3.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HORzKF5l/versions/KfR2WoB7/NametagTweaks%201.21-fabric-1.3.2.jar"
+hash-format = "sha1"
+hash = "b380195f23cda4ad55d67a9f589a3a97770ca05c"
+
+[update]
+[update.modrinth]
+mod-id = "HORzKF5l"
+version = "KfR2WoB7"

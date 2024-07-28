@@ -1,0 +1,13 @@
+name = "I've Spoken"
+filename = "ivespoken-2.2.2-fabric.1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OidSa416/versions/t32vh6kk/ivespoken-2.2.2-fabric.1.21.jar"
+hash-format = "sha1"
+hash = "6bc7a73429fb9121f040de4912e99b721faf02ef"
+
+[update]
+[update.modrinth]
+mod-id = "OidSa416"
+version = "t32vh6kk"

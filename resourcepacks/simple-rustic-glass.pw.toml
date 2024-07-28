@@ -1,0 +1,13 @@
+name = "Simple Rustic Glass"
+filename = "SimpleRusticGlassv1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zecHkxw5/versions/NJ7fgb18/SimpleRusticGlassv1.0.1.zip"
+hash-format = "sha1"
+hash = "229c60bdd0adf8fea0483866820d5d085083c085"
+
+[update]
+[update.modrinth]
+mod-id = "zecHkxw5"
+version = "NJ7fgb18"

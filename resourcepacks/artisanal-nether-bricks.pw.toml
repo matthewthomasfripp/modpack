@@ -1,0 +1,13 @@
+name = "Artisanal Nether Bricks"
+filename = "Artisanal Nether Bricks v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiCgYj9E/versions/Si4u5LEC/Artisanal%20Nether%20Bricks%20v1.0.0.zip"
+hash-format = "sha1"
+hash = "04e7cb4b76e84cac7c729724432b40b1180ad1eb"
+
+[update]
+[update.modrinth]
+mod-id = "eiCgYj9E"
+version = "Si4u5LEC"

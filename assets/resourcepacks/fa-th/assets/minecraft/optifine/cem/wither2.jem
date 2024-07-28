@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head1",
+			"id": "head1",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"translate": [0, 24, -2],
+					"rotate": [-7.5, 0, 0],
+					"boxes": [
+						{"coordinates": [-4, -4, -4, 8, 8, 8], "textureOffset": [0, 0]},
+						{"coordinates": [-3, -3, -3, 6, 6, 6], "textureOffset": [40, 52]},
+						{"coordinates": [-4, -3, -4, 4, 2, 5], "textureOffset": [43, 12]}
+					]
+				}
+			]
+		},
+		{
+			"part": "head2",
+			"id": "head2",
+			"invertAxis": "xy",
+			"translate": [-8, -20, 0],
+			"submodels": [
+				{
+					"id": "bone3",
+					"invertAxis": "xy",
+					"translate": [9, 21, -1],
+					"rotate": [-2.5, -5, 0],
+					"boxes": [
+						{"coordinates": [-3, -3, -3, 6, 6, 6], "textureOffset": [32, 0]},
+						{"coordinates": [-2, -2, -2, 4, 4, 4], "textureOffset": [48, 56]},
+						{"coordinates": [-1, 0, -3, 4, 3, 5], "textureOffset": [24, 35]}
+					]
+				}
+			]
+		},
+		{
+			"part": "head3",
+			"id": "head3",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [10, -20, 0],
+			"boxes": [
+				{"coordinates": [-12, 18, -4, 6, 6, 6], "textureOffset": [40, 40]}
+			],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [-9, 21, -1],
+					"rotate": [-15, 17.5, 0],
+					"boxes": [
+						{"coordinates": [-3, -2, -3, 6, 4, 6], "textureOffset": [0, 52]}
+					]
+				}
+			]
+		},
+		{
+			"part": "body1",
+			"id": "body1",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-10, 17.1, -0.5, 20, 3, 3], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "body2",
+			"id": "body2",
+			"invertAxis": "xy",
+			"translate": [-2, -17.1, 0.5],
+			"boxes": [
+				{"coordinates": [-1, 7.1, -0.5, 3, 10, 3], "textureOffset": [0, 22]},
+				{"coordinates": [0, 13.6, 0, 6, 2, 2], "textureOffset": [24, 22]},
+				{"coordinates": [-3, 11.1, 0, 9, 2, 2], "textureOffset": [24, 22]},
+				{"coordinates": [-4, 8.6, 0, 8, 2, 2], "textureOffset": [26, 22]}
+			]
+		},
+		{
+			"part": "body3",
+			"id": "body3",
+			"invertAxis": "xy",
+			"translate": [-2, -7.1, 0.5],
+			"boxes": [
+				{"coordinates": [-1, 4.1, -0.5, 3, 3, 3], "textureOffset": [12, 22]},
+				{"coordinates": [0.5, 0.1, -0.5, 0, 4, 5], "textureOffset": [30, 55]}
+			]
+		}
+	]
+}

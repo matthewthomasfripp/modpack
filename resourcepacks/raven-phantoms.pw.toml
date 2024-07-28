@@ -1,0 +1,13 @@
+name = "Raven Phantoms"
+filename = "RavenPhantoms_v1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dr0NPFVV/versions/A9GYuR44/RavenPhantoms_v1.0.1.zip"
+hash-format = "sha1"
+hash = "f4fb7c5bfcec65eed83c5a70e7446a57afae6c11"
+
+[update]
+[update.modrinth]
+mod-id = "Dr0NPFVV"
+version = "A9GYuR44"

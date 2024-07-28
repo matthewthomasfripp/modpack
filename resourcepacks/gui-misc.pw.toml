@@ -1,0 +1,8 @@
+name = "GUI - Miscellaneous"
+filename = "gui-misc.zip"
+side = "client"
+
+[download]
+url = "https://miniserve.fripp.xyz/mods/resourcepacks/gui-misc.zip"
+hash-format = "sha1"
+hash = "7235decbc9bd6c93ac72cd50fddd42afed966fc3"

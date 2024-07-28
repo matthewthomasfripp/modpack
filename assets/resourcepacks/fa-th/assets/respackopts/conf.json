@@ -1,0 +1,10 @@
+{
+    "id": "torturablehealthbars",
+    "version": 1,
+    "capabilities": ["FileFilter", "DirFilter"],
+    "conf": {
+    "animatedblood": true,
+    "crackingarmor": true,
+    "breezewind": true
+    }
+}

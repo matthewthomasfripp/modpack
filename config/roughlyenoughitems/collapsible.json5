@@ -1,0 +1,551 @@
+{
+	"disabledGroups": [
+		"minecraft:enchanted_books",
+		"minecraft:blocks/copper"
+	],
+	"customGroups": [
+		{
+			"id": "custom:9c89885b-0406-43e3-be3a-c80f58e15e5f",
+			"name": "Plushes",
+			"stacks": [
+				"{count:1,id:\"blahaj:gray_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:blue_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:blue_whale\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:bread\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:brown_bear\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:ace_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:agender_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:aro_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:aroace_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:bi_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:demiboy_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:demigirl_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:demi_r_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:demi_s_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:enby_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:gay_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:genderfluid_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:genderqueer_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:greyrose_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:grey_r_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:grey_s_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:intersex_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:lesbian_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:pan_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:poly_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:pride_shark\",type:\"minecraft:item\"}",
+				"{count:1,id:\"blahaj:trans_shark\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:a118d3c2-fc93-49e6-9124-2f4ca2cc14ad",
+			"name": "Couches",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_couch\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_couch\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:3d02ec1b-4259-48db-b417-4dbcbce562c6",
+			"name": "Chairs",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_chair\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_chair\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:a8db6ab1-ed90-4213-8ba9-e89f11251d23",
+			"name": "Desks",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_desk\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_desk\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:607f63f1-00c4-450d-8be0-d6456621e711",
+			"name": "Counters",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_counter\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_counter\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:7f81f0f1-59de-44f4-84c0-488d6f8a5a4b",
+			"name": "Trims",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:acacia_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:andesite_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:andesite_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blackstone_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blackstone_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bricks_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bricks_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:calcite_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:calcite_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:deepslate_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:deepslate_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:diorite_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:diorite_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dripstone_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dripstone_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:granite_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:granite_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:quartz_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:quartz_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:stone_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:stone_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:sandstone_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:sandstone_corner_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:red_sandstone_pillar_trim\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:red_sandstone_corner_trim\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:994e3e19-ffa2-4caa-b89c-8d6eaf70619f",
+			"name": "Cupboards",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_cupboard\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_cupboard\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:90cb325a-e908-4e38-810c-3bd525ab57b0",
+			"name": "Drawers",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_drawer\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_drawer\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:e64df72e-b89e-4c2c-899b-5dbc3d202799",
+			"name": "Shelfs",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_shelf\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_shelf\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:6b78eaf9-2857-49d1-b90c-d950d06fe303",
+			"name": "Side Tables",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_side_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_side_table\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:7e4e5c74-d7c8-49b1-8d18-1c92ae5532d6",
+			"name": "Cushions",
+			"stacks": [
+				"{count:1,id:\"handcrafted:black_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:brown_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cyan_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:gray_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:green_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:light_blue_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:light_gray_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:lime_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:magenta_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:orange_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:pink_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:purple_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:red_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_cushion\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_cushion\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:ac02390c-e3e7-483c-ba4c-0ba98daffb4a",
+			"name": "Sheets",
+			"stacks": [
+				"{count:1,id:\"handcrafted:black_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:brown_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cyan_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:gray_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:green_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:light_blue_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:light_gray_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:lime_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:magenta_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:orange_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:pink_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:purple_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:red_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_sheet\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_sheet\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:1eff7822-f7eb-4f85-8a96-acd947164caa",
+			"name": "Nightstands",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_nightstand\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_nightstand\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:53874a91-0856-4972-87ff-d052a065b257",
+			"name": "Plates",
+			"stacks": [
+				"{count:1,id:\"handcrafted:white_plate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_plate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_plate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wood_plate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_plate\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:b8ccba27-53e5-4f73-91ca-452525d218ef",
+			"name": "Benches",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:frozen_bench\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:2df5186d-06f1-4e48-af95-f6017e670bbb",
+			"name": "Trophies",
+			"stacks": [
+				"{count:1,id:\"handcrafted:bear_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blaze_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:fox_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:goat_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:pufferfish_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:salmon_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:silverfish_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:skeleton_horse_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spider_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:tropical_fish_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wither_skeleton_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wolf_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:phantom_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:creeper_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:skeleton_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:evoker_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:pillager_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:vindicator_trophy\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:witch_trophy\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:340798d1-5147-4e82-9d5c-7160cc448abd",
+			"name": "Tables",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_table\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_table\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:7656e71e-7761-4d5d-bad4-4bb0a6baf1ea",
+			"name": "Dining Benches",
+			"stacks": [
+				"{count:1,id:\"handcrafted:acacia_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:bamboo_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:birch_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:cherry_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:crimson_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:dark_oak_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:jungle_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:mangrove_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:oak_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:spruce_dining_bench\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:warped_dining_bench\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:4b0f82b4-3546-4c3e-b3de-80bf04e5cd88",
+			"name": "Pots",
+			"stacks": [
+				"{count:1,id:\"handcrafted:terracotta_thin_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_medium_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_wide_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_thick_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_glazed_thin_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_glazed_medium_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_glazed_wide_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:white_glazed_thick_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_glazed_thin_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_glazed_medium_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_glazed_wide_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_glazed_thick_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:golden_thin_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:golden_medium_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:golden_wide_pot\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:golden_thick_pot\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:0f97d4de-032e-4f7f-8486-2b6d0edaebb0",
+			"name": "Bowls",
+			"stacks": [
+				"{count:1,id:\"handcrafted:white_bowl\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_bowl\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_bowl\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wood_bowl\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_bowl\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:a54666b9-cdc5-4396-b6a4-db7451a29d67",
+			"name": "Cups",
+			"stacks": [
+				"{count:1,id:\"handcrafted:white_cup\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_cup\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_cup\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wood_cup\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_cup\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:8dfd4f72-cb3e-483b-b3c0-d1ac3caded47",
+			"name": "Crockery",
+			"stacks": [
+				"{count:1,id:\"handcrafted:white_crockery_combo\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:yellow_crockery_combo\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:blue_crockery_combo\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:wood_crockery_combo\",type:\"minecraft:item\"}",
+				"{count:1,id:\"handcrafted:terracotta_crockery_combo\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:3c1380f1-b9b0-4686-86d3-bfa29d6795ae",
+			"name": "",
+			"stacks": []
+		},
+		{
+			"id": "custom:8d90bd6c-f25d-461a-9177-c4de4d7e628b",
+			"name": "Portstones",
+			"stacks": [
+				"{count:1,id:\"waystones:white_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:orange_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:magenta_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:light_blue_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:yellow_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:lime_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:pink_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:gray_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:light_gray_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:cyan_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:purple_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:blue_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:brown_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:green_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:red_portstone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:black_portstone\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:25093196-1931-499f-8feb-00d8d9a942bf",
+			"name": "Waystones",
+			"stacks": [
+				"{count:1,id:\"waystones:waystone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:mossy_waystone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:sandy_waystone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:deepslate_waystone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:blackstone_waystone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:end_stone_waystone\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:adaf7e47-53d7-4f31-8d8e-30af1ea38e66",
+			"name": "Sharestones",
+			"stacks": [
+				"{count:1,id:\"waystones:orange_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:magenta_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:light_blue_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:yellow_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:lime_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:pink_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:gray_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:light_gray_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:cyan_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:purple_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:blue_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:brown_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:green_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:red_sharestone\",type:\"minecraft:item\"}",
+				"{count:1,id:\"waystones:black_sharestone\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:77358131-70be-41eb-8cba-400ce62da935",
+			"name": "Copper Blocks",
+			"stacks": [
+				"{count:1,id:\"minecraft:copper_block\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:exposed_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:weathered_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oxidized_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:exposed_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:weathered_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oxidized_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:exposed_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:weathered_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oxidized_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:exposed_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:weathered_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oxidized_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_exposed_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_weathered_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_oxidized_copper_bulb\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:exposed_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:weathered_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:oxidized_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_exposed_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_weathered_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_oxidized_copper_grate\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_copper_block\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_exposed_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_weathered_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_oxidized_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_exposed_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_weathered_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_oxidized_chiseled_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_exposed_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_weathered_cut_copper\",type:\"minecraft:item\"}",
+				"{count:1,id:\"minecraft:waxed_oxidized_cut_copper\",type:\"minecraft:item\"}"
+			]
+		},
+		{
+			"id": "custom:7a0f6340-378b-4cf0-93e6-3c105e58e9f5",
+			"name": "Ominous Bottle",
+			"stacks": [
+				"{count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
+				"{components:{\"minecraft:ominous_bottle_amplifier\":1},count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
+				"{components:{\"minecraft:ominous_bottle_amplifier\":2},count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
+				"{components:{\"minecraft:ominous_bottle_amplifier\":3},count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
+				"{components:{\"minecraft:ominous_bottle_amplifier\":4},count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}"
+			]
+		}
+	]
+}
