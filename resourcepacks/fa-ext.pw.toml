@@ -3,6 +3,6 @@ filename = "fa-ext.zip"
 side = "client"
 
 [download]
-url = "https://miniserve.fripp.xyz/mods/resourcepacks/fa-ext.zip"
+url = "https://download-directory.github.io/?url=https://github.com/matthewthomasfripp/modpack/tree/main/assets/resourcepacks/fa-ext&filename=fa-ext"
 hash-format = "sha1"
 hash = "76c77b066b514df0dcfe26afeefc3d88ae9f767c"

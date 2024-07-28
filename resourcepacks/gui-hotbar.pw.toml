@@ -3,6 +3,6 @@ filename = "gui-hotbar.zip"
 side = "client"
 
 [download]
-url = "https://miniserve.fripp.xyz/mods/resourcepacks/gui-hotbar.zip"
+url = "https://download-directory.github.io/?url=https://github.com/matthewthomasfripp/modpack/tree/main/assets/resourcepacks/gui-hotbar&filename=gui-hotbar"
 hash-format = "sha1"
 hash = "be1abb1f1e7a3ae946e022719315f9bbe6454f5e"

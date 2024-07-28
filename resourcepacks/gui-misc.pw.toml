@@ -3,6 +3,6 @@ filename = "gui-misc.zip"
 side = "client"
 
 [download]
-url = "https://miniserve.fripp.xyz/mods/resourcepacks/gui-misc.zip"
+url = "https://download-directory.github.io/?url=https://github.com/matthewthomasfripp/modpack/tree/main/assets/resourcepacks/gui-misc&filename=gui-misc"
 hash-format = "sha1"
 hash = "7235decbc9bd6c93ac72cd50fddd42afed966fc3"

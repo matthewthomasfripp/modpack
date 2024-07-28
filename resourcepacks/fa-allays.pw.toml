@@ -3,6 +3,6 @@ filename = "fa-allays.zip"
 side = "client"
 
 [download]
-url = "https://miniserve.fripp.xyz/mods/resourcepacks/fa-allays.zip"
+url = "https://download-directory.github.io/?url=https://github.com/matthewthomasfripp/modpack/tree/main/assets/resourcepacks/fa-allays&filename=fa-allays"
 hash-format = "sha1"
 hash = "a9cef5d8e621742a5328bddd7274d66382383b92"
