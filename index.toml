@@ -293,6 +293,11 @@ hash = "cb177f0ebdb9eca2126fea8e837a0cdc5f3c3f3ad28381871748c55d84c29206"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
+metafile = true
+
+[[files]]
 file = "mods/calm-down-dog.pw.toml"
 hash = "f2f91ea3238c7af12750c6d527904e98733c81c6177b7f07e032c8a46d1ceb26"
 metafile = true
@@ -913,6 +918,11 @@ hash = "6168654a029525caac8e7d5a60210ca8fa8def9755df603585a78baa4ebd1da2"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.pw.toml"
+hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "572731a30ae0a17b9ec69f37659416e8ccd98391e898e632e3044e373c81d9fd"
 metafile = true
@@ -1098,17 +1108,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fa-allays.pw.toml"
-hash = "48fd63aae3b7358150727ac39faa774d747bd20007de58a1e0539ef1537ea471"
+hash = "e8b2927efbb00c627cabce9a4088dfbacd16b1c9732cee7f95ca6371cd8fc494"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-ext.pw.toml"
-hash = "057c76afc09aeb4e11df42504f59f993e5299a290b209166ace898852028b05f"
+hash = "489cf1c7b05fc6459d4970f540d1abd9e83810de0b49875707c530376766c56e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fa-th.pw.toml"
-hash = "4dae4882e50a7359ea444e947e20668abc2bdcca4b47cb2336b502fd62994ce3"
+hash = "8d3efc02848a88a7e2f1c6a89d978c79ba615e27602b94d4b4fe165484516a8b"
 metafile = true
 
 [[files]]
@@ -1133,17 +1143,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gui-hotbar.pw.toml"
-hash = "b37effb3b48c4b75bf315b651c81c2e068d091279400c3187ae92ba6b1c3e593"
+hash = "d75be512b86f8140ec00efae09e49ac4ecebbcb293592fa42ad79cda244a5f30"
 metafile = true
 
 [[files]]
 file = "resourcepacks/gui-menu.pw.toml"
-hash = "d430ccd96f9222b5fe76852642fceecfca0b4199f2954b7adcab6b5b5645fb39"
+hash = "f03c33870c38c0850ea54a49c4aca3fc32483da904de9d4890970cca2caa3a46"
 metafile = true
 
 [[files]]
 file = "resourcepacks/gui-misc.pw.toml"
-hash = "127cd222a4b0c3783cec487f34b3fdb33077c47dae0cd6cfdc97fb4ac486e026"
+hash = "3b75d81fcb04e45a08f398a8f85337f18a3151af34d552ca3868fb19c34eb9b2"
 metafile = true
 
 [[files]]
@@ -1158,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/moss-carpet.pw.toml"
-hash = "dc19a0d7a1496bf31ed83ab726d171629119da7274984a52221ecec768202a7b"
+hash = "74b7a8987e5236111bb34861a67ca4761d700a7754e0b0327bb6d6eddefeacea"
 metafile = true
 
 [[files]]
@@ -1190,3 +1200,11 @@ metafile = true
 file = "resourcepacks/villager-variety.pw.toml"
 hash = "dd48baeecbfafec5bb83fd4b86e692e2cbb758a0e5131b754aff1f34ff43e385"
 metafile = true
+
+[[files]]
+file = "shaderpacks/high.zip.txt"
+hash = "1af052ce8e7330546179de90850b4882fa2c3c8c8185775fe91359d7c7b97245"
+
+[[files]]
+file = "shaderpacks/low.zip.txt"
+hash = "6e8661b3bd9f38de8fe638e36edb18abe277ab2ca0d0c4ea3f012303b1791b64"
