@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://download-directory.github.io/?url=https://github.com/matthewthomasfripp/modpack/tree/main/assets/resourcepacks/gui-menu&filename=gui-menu"
 hash-format = "sha1"
-hash = "9f3ae0f990b7e3297deaa05e03f955fab3bc196a"
+hash = "8750cc0e126caf3b6b0560a9bdc18b6b0680cbfe"
